@@ -13,6 +13,10 @@ Hi I'm Nazmul Hasan Piash. I'm an expert web application software developer. I d
 This Laravel Application Setup i was used Laravel Offical Documentation. I also used laravel Breez package and Laraturst.
 
 
+## This Laravel Website Basic Setup By Nazmul Hasan Piash
+Hi I'm Nazmul Hasan Piash. I'm an expert web application software developer. I develope this application for easy to setup Admin & Admin Role Login system.
+This Laravel Application Setup i was used Laravel Offical Documentation. I also used laravel Breez package and Laraturst.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
